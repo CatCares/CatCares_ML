@@ -26,9 +26,17 @@
 We use this [Dataset](https://drive.google.com/drive/folders/1qH0IgxUk5CcmJmTGipvNLBR9z_BK2syp?usp=drive_link)
 
 ### Model Architecture 
+We create a model using tensorflow with some simple CNN layers, modify the dataset using augmentation techniques with binary classmode, the loss used is binary crossentropy and RMSprop optimizer, after that save the model with file type '.h5'.
+
+This is the summary of the model 
+<p align="center">
+  <img width="400" height="350" src="https://github.com/CatCares/CatCares_ML/blob/main/Model%20Architecture.png">
+</p>
 
 
-
-
+This is This is the plot that has been run
+<p align="center">
+  <img width="400" height="350" src="https://github.com/CatCares/CatCares_ML/blob/main/Plot%20accuracy.png">
+</p>
 
 
