@@ -34,7 +34,7 @@ This is the summary of the model
 </p>
 
 
-This is This is the plot that has been run
+This is the plot that has been run
 <p align="center">
   <img width="400" height="350" src="https://github.com/CatCares/CatCares_ML/blob/main/Plot%20accuracy.png">
 </p>
