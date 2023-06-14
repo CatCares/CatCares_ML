@@ -1,8 +1,9 @@
-<h1 align="center">
-  <img align="center" src="https://github.com/CatCares/CatCares_ML/blob/main/CatCares-logo.jpeg"  width="500"></img>
-<br>
-MACHINE LEARNING README - CAT CARES
-</h1>
+<p align="center">
+  <img src="https://github.com/CatCares/CatCares_CC/assets/133958617/32bea8d2-77d7-41f6-b219-742e21e204f2" alt="CatCares logo" height="200" />
+</p>
+
+<h1 align="center">CatCares</h1>
+
 <div align="center">
 
 [![ML Contributors](https://img.shields.io/github/contributors/CatCares/CatCares_ML?color=blue)](#mlcontributors)
