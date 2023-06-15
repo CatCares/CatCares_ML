@@ -31,7 +31,7 @@ We designed a simple model using several sequential layers, namely several convo
 
 We use this code to modify the dataset
 <p align="center">
-  <img width="400" height="350" src="https://github.com/CatCares/CatCares_ML/blob/main/Augmentasi.png">
+  <img width="400" height="450" src="https://github.com/CatCares/CatCares_ML/blob/main/Augmentasi.png">
 </p>
 
 
