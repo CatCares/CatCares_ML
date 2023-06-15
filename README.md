@@ -23,7 +23,7 @@
 # Machine Learning Project 
 
 ### Dataset :
-We use this [Dataset.](https://drive.google.com/drive/folders/1qH0IgxUk5CcmJmTGipvNLBR9z_BK2syp?usp=drive_link) The datasets we use are all taken from the internet. 
+We use this [Dataset.](https://drive.google.com/drive/folders/1qH0IgxUk5CcmJmTGipvNLBR9z_BK2syp?usp=drive_link) We're using from [roboflow](https://universe.roboflow.com/tain/cat-ringworm/dataset/3) and we also using dataset from multiple sources in internet.
 
 ### Model Architecture 
 We designed a simple model using several sequential layers, namely several convolutional 2D layers, 2D max pooling, flatten layers and dense layers. The activation used is relu for the convolutional and max pooling layers, as well as sigmoid activation because the results of this classification are only one type. We use tensorflow for the sequential model.Before the model trains with the dataset, we perform augmentation techniques for the training and test datasets. We use binary class mode, then the loss used is binary crossentropy and the optimizer when training is RMSprop. After the model is created, we save it with the file type '.h5'.
