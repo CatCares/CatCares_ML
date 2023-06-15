@@ -33,6 +33,7 @@ This is the summary of the model
   <img width="400" height="350" src="https://github.com/CatCares/CatCares_ML/blob/main/Model%20Architecture.png">
 </p>
 
+We get a high accuracy of around 95% and validation accuracy of around 90%.
 
 ### Graph after training
 
@@ -42,6 +43,7 @@ This is the plot that has been run
 </p>
 
 
+
 ### Conclution
-From this simple model and after testing with several objects, we managed to detect the ringworm disease.
+From this simple model and after testing with several objects, we succeed to detect the ringworm disease.
 
