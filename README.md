@@ -28,6 +28,13 @@ We use this [Dataset.](https://drive.google.com/drive/folders/1qH0IgxUk5CcmJmTGi
 ### Model Architecture 
 We designed a simple model using several sequential layers, namely several convolutional 2D layers, 2D max pooling, flatten layers and dense layers. The activation used is relu for the convolutional and max pooling layers, as well as sigmoid activation because the results of this classification are only one type. We use tensorflow for the sequential model.Before the model trains with the dataset, we perform augmentation techniques for the training and test datasets. We use binary class mode, then the loss used is binary crossentropy and the optimizer when training is RMSprop. After the model is created, we save it with the file type '.h5'.
 
+
+We use this code to modify the dataset
+<p align="center">
+  <img width="400" height="350" src="https://github.com/CatCares/CatCares_ML/blob/main/Augmentasi.png">
+</p>
+
+
 This is the summary of the model 
 <p align="center">
   <img width="400" height="350" src="https://github.com/CatCares/CatCares_ML/blob/main/Model%20Architecture.png">
