@@ -46,3 +46,9 @@ We get a high accuracy of around 95% and validation accuracy of around 90%.
 ### Conclution
 From this simple model and after testing with several objects, we succeed to detect the ringworm disease.
 
+### How To Use
+1. Download the [Dataset.](https://drive.google.com/drive/folders/1qH0IgxUk5CcmJmTGipvNLBR9z_BK2syp?usp=drive_link)
+2. Unzip the dataset, then upload the dataset folder to Google Drive.
+3. Copy the [code](https://github.com/CatCares/CatCares_ML/blob/main/Ringworm_Prediction.ipynb) by pressing "Open in colab"
+4. Run the copied code and try it.
+5. Download the [image](https://github.com/CatCares/CatCares_ML/tree/main/Test%20Images) to test the results of the run code.
