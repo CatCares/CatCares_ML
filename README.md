@@ -41,7 +41,7 @@ We use this code to modify the dataset
 </p>
 
 
-### Graph after training
+### Graph After Training
 
 This is the plot that has been run
 <p align="center">
@@ -50,7 +50,7 @@ This is the plot that has been run
 
 We get a high accuracy of around 95% and validation accuracy of around 90%.
 
-### Conclution
+### Conclusion
 From this simple model and after testing with several objects, we succeed to detect the ringworm disease.
 
 ### How To Use
